@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\student\Desktop\Project6\FileName.c(15,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\Desktop\Project6\FileName.c(37,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\student\Desktop\Project6\FileName.c(37,36): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\student\Desktop\Project6\FileName.c(65,37): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\student\Desktop\Project6\FileName.c(89,9): warning C4101: dmin: неиспользованная локальная переменная
+C:\Users\student\Desktop\Project6\FileName.c(89,15): warning C4101: dmax: неиспользованная локальная переменная
+C:\Users\student\Desktop\Project6\FileName.c(85): warning C4716: lab25task1: должна возвращать значение
+C:\Users\student\Desktop\Project6\FileName.c(111): warning C4716: lab25task2: должна возвращать значение
+  Project6.vcxproj -> C:\Users\student\Desktop\Project6\x64\Debug\Project6.exe
